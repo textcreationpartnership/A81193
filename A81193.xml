@@ -1,0 +1,398 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A curse against Parliament-ale. With a blessing to the juncto; a thanksgiving to the councel of state; and psalm to Oliver.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81193</idno>
+            <idno type="STC">Wing C7685</idno>
+            <idno type="STC">Thomason E575_33</idno>
+            <idno type="STC">ESTC R206352</idno>
+            <idno type="EEBO-CITATION">99865516</idno>
+            <idno type="PROQUEST">99865516</idno>
+            <idno type="VID">165457</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81193)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165457)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 88:E575[33])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A curse against Parliament-ale. With a blessing to the juncto; a thanksgiving to the councel of state; and psalm to Oliver.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the good of the state,</publisher>
+                  <pubPlace>Nod-nol [i.e. London] :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Annotation on Thomason copy: "Octob: 25".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver --  1599-1658 --  Humor --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Humor --  Early works to 1800.</term>
+               <term>Political satire, English --  17th Century.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Humor --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165457:1" rendition="simple:additions"/>
+            <p>A CURSE <hi>Againſt</hi> Parliament-Ale.</p>
+            <p>With a Bleſſing to the <hi>J<g ref="char:V">Ʋ</g>NCTO;</hi> a Thanksgiving to the <hi>Councel</hi> of <hi>STATE;</hi> and a Pſalm to OLIVER.</p>
+            <lg>
+               <l>
+                  <hi>Tom Randal</hi> did once, in a <hi>merry Tale,</hi>
+               </l>
+               <l>Write the <hi>Commendations</hi> of a <hi>Pot of Good Ale:</hi>
+               </l>
+               <l>Revealing what <hi>Cures,</hi> and <hi>Griefs</hi> it did eaſe,</l>
+               <l>And all ſorts of People comfort and pleaſe:</l>
+               <l>But now our Damn'd <hi>Juncto,</hi> to adde Sorrow to Grief,</l>
+               <l>Have Robbed us all, of our beſt Relief:</l>
+               <l>That Cauſes my <hi>Muſe</hi> at the Rebels to Raile,</l>
+               <l>That <hi>Eight Yeers</hi> have Sate, to <hi>Reform</hi> our <hi>Ale.</hi>
+               </l>
+               <l>We praying this <hi>Curſe</hi> may ſoon on them fall,</l>
+               <l>Their Wives, and their Children; <hi>A pox take them all.</hi>
+               </l>
+            </lg>
+            <p>
+               <hi>NOD-NOL:</hi> Printed for the good of the <hi>State.</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:165457:2"/>
+            <pb n="3" facs="tcp:165457:2"/>
+            <head>A CURSE <hi>Againſt</hi> Parliament-Ale.</head>
+            <lg>
+               <l>BAſe Miſcreants, Rebells, could ye not invent</l>
+               <l>Some other <hi>Plague</hi> in your damn'd PARLIAMENT</l>
+               <l>To vex <hi>good-fellows,</hi> but you muſt put down</l>
+               <l>
+                  <hi>Strong-Ale,</hi> the chief upholder of the <hi>Crown?</hi>
+               </l>
+               <l>Sure, ſure you fear'd (ſince you have <hi>miſchief</hi> wrought)</l>
+               <l>That we ſhould <hi>curſe</hi> you every Mornings draught;</l>
+               <l>Talk of your uſurp'd Power, and in concluſion</l>
+               <l>Turn off a <hi>Double Pott</hi> to your confuſion.</l>
+            </lg>
+            <lg>
+               <l>What made ye elſe to <hi>Act</hi> againſt our good,</l>
+               <l>And put down ALE, the nouriſher of <hi>blood?</hi>
+               </l>
+               <l>Alas, I knew your helliſh PLOTT before,</l>
+               <l>'Cauſe you <hi>ſhed blood,</hi> you'd have us breed no more.</l>
+               <l>Or does your <hi>tainted ſouls</hi> in reaſon think</l>
+               <l>'Cauſe we want Meat, to keep us from our Drink:</l>
+               <l>Now againſt <hi>winter</hi> too, in <hi>ſnow</hi> and Froſt,</l>
+               <l>Baſely to rob us of our POTT and TOST!</l>
+               <l>The <hi>ancient</hi> DRINK of <hi>England</hi> to forbid!</l>
+               <l>The curſedſt Act the <hi>Juncto</hi> ever did:</l>
+               <pb n="4" facs="tcp:165457:3"/>
+               <l>'Twas all our TRADING now, to tell a Tale,</l>
+               <l>And repeat <hi>wrongs</hi> over a Pott of ALE:</l>
+               <l>Tell the ſad Story of <hi>Good</hi> CHARLES his Fate,</l>
+               <l>How you have Reform'd <hi>Monarchy</hi> to <hi>State:</hi>
+               </l>
+               <l>How fruitfull ſince your time the Church is grown,</l>
+               <l>That hath a Thouſand <hi>Hereſyes</hi> for one.</l>
+               <l>What <hi>Acts</hi> and <hi>Laws</hi> ye make; and what obſerve,</l>
+               <l>What ye have done: and what your <hi>Deeds</hi> deſerve;</l>
+               <l>What <hi>Rule</hi> ye <hi>Rule</hi> by; By what <hi>Pow'r</hi> ye ſway,</l>
+               <l>And ſeek our <hi>good,</hi> the clean contrary way;</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> by Oppreſſing you doe eaſe oppreſſion,</l>
+               <l>And of the <hi>Deadly ſins</hi> Vote no Tranſgreſſion.</l>
+               <l>How you doe <hi>thrive</hi> by Theft, and <hi>live</hi> by murder;</l>
+               <l>Goe on in Fraud, till you can goe no further;</l>
+               <l>And when on <hi>top</hi> of all your haughty pride</l>
+               <l>Make your ſelves <hi>Saints</hi> by acting <hi>Regicide.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>With ſuch <hi>Diſcourſe</hi> the time we did beguile,</l>
+               <l>Whilſt every one <hi>club'd</hi> round his Pott the while,</l>
+               <l>To ſeaſon <hi>grief,</hi> and baniſh baſe <hi>diſpaire,</hi>
+               </l>
+               <l>And eaſe our mindes of Poverty and Care.</l>
+               <l>But ſince Strong ALE is now departed hence,</l>
+               <l>Thus will we CURSE his Small-beer <hi>Excellence.</hi>
+               </l>
+               <l>The Juncto, Army, that procure our woe,</l>
+               <l>My Curſe light on them, and the <hi>Peoples</hi> too.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>A Bleſſing to the <hi>Juncto.</hi>
+            </head>
+            <lg>
+               <l>MAY <hi>Tom</hi> of the <hi>North,</hi> with <hi>Pryde</hi> and his <hi>froath,</hi> his Yeſt-Tubb, Hoggs-heads, Barrel;</l>
+               <l> be filled with Small-Beer, that never yet was Cleer, that the Rebels may drink till they Quarrel.</l>
+               <l> May <hi>Noll Cromwels</hi> Grace, with his <hi>Copper</hi> in his Face, drink what a <hi>Bogge</hi> invites him:</l>
+               <l> let his <hi>Noſe</hi> ſtick in Mudde, as his hands are brew'd in Bloud, and a guilty Con<g ref="char:EOLhyphen"/>ſcience affright him.</l>
+               <l> May his Life-guard Conſpire, and his <hi>Noſe</hi> looſe the fire, <hi>Strong-Ale</hi> at firſt infuſed:</l>
+               <l> may he all Cur<g ref="char:EOLhyphen"/>ſes have, till he comes to his Grave, that hath a whole King<g ref="char:EOLhyphen"/>dom abuſed.</l>
+               <l> May <hi>Ireton</hi> that Rebel, march quickly to Hell, and for Thirſt like <hi>Dives</hi> complain:</l>
+               <l> may <hi>Noll</hi> and he, and all their Progeny, never drink <hi>ſtrong-Ale</hi> again.</l>
+               <l> May perpetual Thirſt, make them al ſtill Accurſt, in hunger let them pine:</l>
+               <pb n="5" facs="tcp:165457:3"/>
+               <l>and never let them drink, but water that doth ſtink, or the dreggs of ſome poyſonous Wine.</l>
+               <l> May their Food be Hopps and Grayns, and all end their Reigns, at Tyburn take their Degrees:</l>
+               <l> like to <hi>Abſalom,</hi> let them come ſtill ſhort home, and end all their lives on Trees.</l>
+               <l> Let <hi>Bradſhaw</hi> take a Bribe, to be<g ref="char:EOLhyphen"/>tray all the Tribe, as he hath done his King:</l>
+               <l> and after he hath done, into Perdition run, and end his life with a Swing.</l>
+               <l> Let Sir <hi>Harry Mildmay;</hi> like <hi>Iudas</hi> betray; their <hi>Cauſe</hi> in his whim<g ref="char:EOLhyphen"/>ſy-fitt:</l>
+               <l> and when with his Maid, he hath often plaid, be tane in the Gravel-pitt.</l>
+               <l> Let <hi>Steel, Cooke,</hi> and <hi>Wylde,</hi> that have ſo often beguild, the Kingdom of their Right:</l>
+               <l> do Juſtice at laſt, and all the Rebels Caſt, that againſt their Soveraign fight.</l>
+               <l> Let <hi>Pryde</hi> with his <hi>Sling,</hi> that Reigns like a <hi>King,</hi> be ſod in his own Fatt:</l>
+               <l> his Children and Wife, live at variance and ſtrife, and his Cattel die all of the Rott.</l>
+               <l> Let <hi>Hewſon</hi> fight his <hi>Laſt,</hi> and in his <hi>Ends</hi> be ſtill croſt, with clean and pleaſant weather:</l>
+               <l> may his <hi>Knife</hi> and <hi>Threads</hi> break, and his <hi>Soul</hi> ſpring a leak, and his skin be tan'd to make Leather.</l>
+               <l> May <hi>Whitlock</hi> have his Due, that yet was never True, to Goſpel, Law, or Reaſon:</l>
+               <l> and when he doth depart, I wiſh with all my heart, he may Suffer for High Treaſon.</l>
+               <l> May <hi>Martin</hi> and his <hi>Punk,</hi> be e<g ref="char:EOLhyphen"/>very day Drunk, until a Surfeit ſpeed them:</l>
+               <l> and when they be poor, run ſtill on the Score, and the Chyrurgion deny to Bleed them.</l>
+               <l> May <hi>Peters</hi> Preach and Fight, and in Sedition delight, till his Tongue do ſet all on Fire:</l>
+               <l> and in the conclu<g ref="char:EOLhyphen"/>ſion, ſome ſudden Confuſion, fruſtrate the Rebels deſire.</l>
+               <l> May <hi>Corbet</hi> the Jew, that yet was never true, be ſtoned through <hi>Loathbury:</hi>
+               </l>
+               <l> and like Doctor <hi>Lambe,</hi> be ſent from whence he came, or be Chained in <hi>Charons</hi> Ferry.</l>
+               <l> May <hi>Okey</hi> and his Rout, of Dragoons face about, and once again brew Small-Beer:</l>
+               <l> may they wait for the Day, and alwayes miſs their Pay, or be Rowted twice in a yeer.</l>
+               <l> May <hi>Lenthall</hi> that Athieſt, turn Alcymiſt, and Cheat the <hi>State</hi> of their Coyn:</l>
+               <l> that he may Buy Land, and <hi>Cole</hi> have Command, of all he doth Pur<g ref="char:EOLhyphen"/>loyn.</l>
+               <l> May <hi>Whalley</hi> and <hi>Rich,</hi> and <hi>Barksteed</hi> and ſuch, baſe ſcums, as <hi>Deſhury, Sanders:</hi>
+               </l>
+               <l> when theſe Wars do ceaſe, and once we have a Peace, be hang'd for High-way-ſtanders.</l>
+               <l> May <hi>Lilburn</hi> from the Tower, overthrow all their Power, and his</l>
+               <pb n="6" facs="tcp:165457:4"/>
+               <l>Levellers Riſe and prevaile:</l>
+               <l> may they hang up Committees, that undo Towns and Cities, and lay all Excize-men in Jayle.</l>
+               <l> May the old doting Mayor, fall into Diſpair, and the wiſe Al<g ref="char:EOLhyphen"/>dermen of the City:</l>
+               <l> like Perjur'd Elves, fall mad and hang themſelves, and their Caſe let no man pitty.</l>
+               <l> May the <hi>Com<g ref="char:EOLhyphen"/>mon-Councel</hi> ſit, without Money or Wit, to Raiſe a new Sum for the Army:</l>
+               <l> then let <hi>Noll</hi> Return, and your City Sack and Burn, and the Juncto the whilſt diſ-arm yee.</l>
+               <l> May Alderman <hi>Byde,</hi> get the uper hand of <hi>Pryde,</hi> and <hi>Scarlet</hi> ſtill adorn him:</l>
+               <l> and when he doth fail, to Brew more Strong <hi>Ale,</hi> pray <hi>Vul<g ref="char:EOLhyphen"/>can</hi> his Wife may Horn him.</l>
+               <l> May all Countries Riſe, and Pay no Excize, till King CHARLES be ſet on His Throne:</l>
+               <l> may they Raiſe new Force, of Money, Men, and Horſe, and ſeek to ſecure their own.</l>
+               <l> May their Navie all Sail, by ſome unlucky Gale, to <hi>Dunkirk</hi> or <hi>Oaſtend:</hi>
+               </l>
+               <l> when their Saylors be drunk, let their Ships be all ſunk, and their Piracy come to an end.</l>
+               <l> May the <hi>Blood</hi> they have ſhed, and their King Mur<g ref="char:EOLhyphen"/>dered, aloud for vengeance Cry:</l>
+               <l> till the Heavens do ſend, ſome Plague for their end, that have deſtroyed Monarchy.</l>
+               <l> May the Church-Lands, lie ſtill on their Hands, and he be Curs'd that Buys them:</l>
+               <l> 'gainſt the will of the Dead, when themſelves are Buried, juſt Heaven will ſure deny them.</l>
+               <l> May all the Kings Goods, His Parks, Chaſes, Woods, His Chil<g ref="char:EOLhyphen"/>dren now diſtreſſed:</l>
+               <l> be delivered from their Paws, that will obſerve no Laws, and the People that do it <hi>Bleſſed.</hi>
+               </l>
+               <l> May their ſeveral Vows, that no breaking allows, their Oaths and Per<g ref="char:EOLhyphen"/>juries:</l>
+               <l> beſides their murder and ſtealth, and the wronged Common-wealth, procure their Miſeries.</l>
+               <l> May their Pitts, Nets, and Traps, made for others Miſhaps, procure their ſud<g ref="char:EOLhyphen"/>den woe:</l>
+               <l> and when they be Dead, lie Unburied, and their Souls to the Devil go.</l>
+               <l> May their Wives turn all Jades, and live on their Trades, and their Children be marked like <hi>Cain:</hi>
+               </l>
+               <l> may they never have a day, of Comfort or Joy, till CHARLS the Second do Reign.</l>
+            </lg>
+            <closer>Amen.</closer>
+         </div>
+         <div type="poem">
+            <head>A Thanks-giving to the <hi>Army.</hi>
+            </head>
+            <p>MOſt Powerful, and Puiſſant Conquerers, that by your Might in Wickedneſs, have overcome and cut off our
+<pb n="7" facs="tcp:165457:4"/>moſt Rightful and Gracious King, ſubdued our Laws, filled our Land with Schiſme, Hereſie, Prophanneſs, Murders, Lies, Robberies, &amp;c. We bleſs you, we magnifie you, we adore you, and acknowledge all we have to be at the mercy of your Swords, from this time forward, Parliament everlaſting, world without end. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="poem">
+            <head>To the Councel of State.</head>
+            <p>MAy it pleaſe you Right Horrible, Damnable, &amp;c. The taking down the Councel-Board, Star-chamber, and High-Commiſſion, was becauſe they were Tyrannical, and Obnoxious to the good and well-being of the people; And finding you to be more Tyrannical and Wicked then ever thoſe Courts were, We deſire to know from whence you derive your Power; And are Reſolved (God willing) to Down with you next, notwithſtanding your immuring your ſelves in <hi>White-hall,</hi> placing a Guard upon you, till you Commit wick<g ref="char:EOLhyphen"/>edneſs with a high hand.</p>
+            <l>Let <hi>Juncto, Army, Devil,</hi> do what they can,</l>
+            <l>Your <hi>Ends</hi> ſhall be like <hi>Buckingham</hi> and <hi>Lambe.</hi>
+            </l>
+         </div>
+         <div type="poem">
+            <head>A <hi>Hymne</hi> to CROMWEL.</head>
+            <opener>To the Tune of, <hi>Let</hi> Cromwels <hi>Noſe alone.</hi>
+            </opener>
+            <lg>
+               <l>SING old <hi>Noll</hi> the Brewer, ſing old <hi>Noll</hi> the Brewer,</l>
+               <l>With his Copper-face, and Ruby-<hi>Noſe,</hi> now is Routed ſure:</l>
+               <l>
+                  <hi>Let</hi> Cromwels <hi>noſe ſtill reign, let</hi> Cromwels <hi>noſe ſtill reign,</hi>
+               </l>
+               <l>
+                  <hi>Tis no diſgrace to his Copper-face, to Brew ſtrong Ale again.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Tredagh</hi> he took by Storm, and there he got much Riches;</l>
+               <l>But <hi>Ards</hi> and <hi>Inchiquin,</hi> has made him wrong his Breeches.</l>
+               <l>
+                  <hi>Let</hi> Cromwels <hi>Noſe ſtill Reign, &amp;c.</hi>
+               </l>
+            </lg>
+            <pb n="8" facs="tcp:165457:5"/>
+            <lg>
+               <l>
+                  <hi>Trim</hi> and <hi>Dundalk</hi> was quit, and <hi>Noll</hi> did forward go,</l>
+               <l>Before he at <hi>Killkenny</hi> came, <hi>A lack and alaſſe for wo.</hi>
+               </l>
+               <l>
+                  <hi>Let</hi> Cromwels <hi>Noſe ſtill reign, let</hi> Cromwels <hi>Noſe ſtill reign,</hi>
+               </l>
+               <l>
+                  <hi>Tis no diſgrace to his Copper-face, to Brew ſtrong Ale again.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Ormond</hi> with <hi>Iriſh</hi> ſtout, did Charge him in the Van,</l>
+               <l>And gave him there a Rowt, that kill'd both Horſe and Man.</l>
+               <l>
+                  <hi>Let</hi> Cromwels <hi>Noſe ſtill Reign, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Tredagh</hi> is now Regain'd, the <hi>Mount</hi> was never tane,</l>
+               <l>Moſt People now do think, that he will end his Reign.</l>
+               <l>
+                  <hi>Let</hi> Cromwels <hi>Noſe ſtill reign, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Hugh Peters</hi> lay for dead, and ſaid he was not well,</l>
+               <l>One ſtriping him, he ſaid, He new came out of Hell.</l>
+               <l>
+                  <hi>Let</hi> Cromwels <hi>Noſe ſtill reign, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Ireton</hi> was found dead, <hi>Jones</hi> had his <hi>deadly</hi>-blow,</l>
+               <l>Which made the <hi>Ely Bull</hi> to <hi>Roar, Bellow,</hi> and <hi>Loe.</hi>
+               </l>
+               <l>
+                  <hi>Let</hi> Cromwels <hi>Noſe ſtill reign, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Sure <hi>Lilly</hi> was a <hi>Witch,</hi> that did perſwade his ſtay,</l>
+               <l>But he without his <hi>Breech,</hi> to <hi>Ireland</hi> would away.</l>
+               <l>
+                  <hi>Let</hi> Cromwels <hi>Noſe ſtill reign, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Now they have hem'd him up, within a Caſtle ſure,</l>
+               <l>The <hi>Iuncto</hi> little think, what's Lordſhip doth endure.</l>
+               <l>
+                  <hi>Let</hi> Cromwells <hi>noſe ſtill reign, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>They now doe ſay the Lawrd, did their great Cauſe betray</l>
+               <l>And ſent them all to heaven —<hi>the clean contrary way.</hi>
+               </l>
+               <l>
+                  <hi>Let</hi> Cromwells <hi>noſe ſtill reign, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Thus every Tyrant thrives, and every Traytor ſhall</l>
+               <l>Ayming to reach a Crowne, into Perdition fall.</l>
+               <l>
+                  <hi>Let</hi> Cromwells <hi>Noſe ſtill reign, let</hi> Cromwels <hi>Noſe ſtill reign,</hi>
+               </l>
+               <l>
+                  <hi>Tis no diſgrace to his Copper-face, to Brew ſtrong Ale again.</hi>
+               </l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
